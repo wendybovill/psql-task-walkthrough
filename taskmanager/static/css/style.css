@@ -72,5 +72,5 @@ form {
 }
 
 .collapsible {
-    border: unset !important;
+    border: 0;
 }
